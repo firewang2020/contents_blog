@@ -9,7 +9,7 @@
 title: contents_blog
 brief-intro: Front-end Dev Engineer
 baseurl: "/contents_blog" # the subpath of your site, e.g. /blog
-url: "https://firewang2020.github.io/contents_blog" # the base hostname & protocol for your site
+url: "https://github.com/firewang2020/contents_blog" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
